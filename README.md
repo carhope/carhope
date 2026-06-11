@@ -25,7 +25,7 @@
 ## 🍀3. 현재 공부중
 - Frontend (HTML, Javascrpt, CSS)
 - Backend (MySQL, ERD)
-- programming(python, C)
+- Programming(python, C)
 
 ## 🎋4. 개발 철학
 - 아직 1학년이기에 화려하진 않더라도 기본을 갖추자
