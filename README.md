@@ -3,10 +3,10 @@
 ### 진학중인 학교 = "BusanSoftwareMeisterHighSchool"
 
 ## 1. 💼대회 경력
-- EBS 개최 고교 AI * SW 챌린지 출전
+- EBS 개최 고교 AI * SW 챌린지 출전 (ing)
 - 교내 Poston Dear AI 아이디어톤 출전
-- AI 공공데이터 활용 대회 출전 (현재 1차 심사 대기)
-- ing...
+- AI 공공데이터 활용 대회 출전 (1차 탈락)
+- ing..
 
 ## 🌱2. 개인 업적
 - 교내 영어단어왕 장려상
@@ -20,6 +20,7 @@
 - BeatKim
 - SFAB(Smart Float Air Ball 아이디어)
 - AIMac2
+- VERTEX
 
 
 ## 🍀3. 현재 공부중
