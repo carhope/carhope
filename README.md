@@ -6,14 +6,14 @@
 - EBS 개최 고교 AI * SW 챌린지 출전 (ing)
 - 교내 Poston Dear AI 아이디어톤 출전
 - AI 공공데이터 활용 대회 출전 (1차 탈락)
-- ing..
+- 제 11회 전국 고등학교 동아리 AI-SW 경진대회 출전 (ing)
 
 ## 🌱2. 개인 업적
 - 교내 영어단어왕 장려상
 - 교내 영어 원서 읽기 프로젝트 장려상
 - 릴스, 쇼츠 하루에 5분미만으로 시청.
 - 친구와 김해-광안리 38km 걸어간 경험있음.
-- 토익 []점 ..ing
+- 토익 [430]점 ..ing LC : 215 / RC : 215
 
 ## 💫진행 프로젝트
 - FeedbacKing
@@ -27,6 +27,7 @@
 - Frontend (HTML, Javascrpt, CSS)
 - Backend (MySQL, ERD)
 - Programming(python, C)
+- 
 
 ## 🎋4. 개발 철학
 - 아직 1학년이기에 화려하진 않더라도 기본을 갖추자
