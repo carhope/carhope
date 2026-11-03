@@ -21,10 +21,15 @@
 - SFAB(Smart Float Air Ball 아이디어)
 - AIMac2
 - VERTEX
+- UreCar
+- 폭싹
+- 왜삼?
+- Pencer
+
 
 
 ## 🍀3. 현재 공부중
-- Frontend (HTML, Javascrpt, CSS)
+- Frontend (HTML, Javascrpt, CSS, React)
 - Backend (MySQL, ERD)
 - Programming(python, C)
 - 
